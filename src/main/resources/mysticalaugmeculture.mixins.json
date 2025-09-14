@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.jackbusters.mysticalaugmeculture.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mysticalaugmeculture.mixins.refmap.json",
+  "mixins": [
+    "AttackAOEAugmentMoreTools",
+    "FlightAugmentMoreArmor",
+    "HungerAugmentMoreArmor",
+    "SlownessAugmentMoreArmor",
+    "SpeedAugmentMoreArmor",
+    "StrengthAugmentMoreTools"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+  }
+  

@@ -1,2 +1,6 @@
-# Mystical-Agriculture-Better-Augments
-An addon for Mystical Agirculture made to improve upon the augments of Mystical Agriculture
+# Mystical Augmeculture
+An addon for Mystical Agriculture expanding upon its augmentations.
+
+Jar Downloads:
+- CurseForge: 
+- Modrinth: 
