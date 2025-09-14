@@ -2,5 +2,5 @@
 An addon for Mystical Agriculture expanding upon its augmentations.
 
 Jar Downloads:
-- CurseForge: 
+- CurseForge: https://www.curseforge.com/minecraft/mc-mods/mystical-augmeculture
 - Modrinth: 
